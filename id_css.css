@@ -1,0 +1,41 @@
+#America{
+    border-radius: 25px;
+    border: 2px solid black;
+    background-color: #adf5ff;
+    text-align: center;
+    color: #a000ff;
+    margin: 15px;
+    padding: 15px;
+}
+
+#Kenya{
+    border-radius: 25px;
+    border: 2px solid black;
+    background-color: crimson;
+    text-align: center;
+    color: black;
+    margin: 15px;
+    padding: 15px;
+}
+
+#Japan{
+    border-radius: 25px;
+    border: 2px solid black;
+    background-color: #ff825e;
+    text-align: center;
+    color: #b8e217;
+    margin: 15px;
+    padding: 15px;
+}
+
+#Japan img{
+    width: 120px;
+}
+
+#Kenya img{
+    width: 120px;
+}
+
+#America img{
+    width: 120px;
+}

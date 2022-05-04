@@ -1,0 +1,28 @@
+.fruits{
+    border: 2px solid #ff9090;
+    color: #a000ff;
+    background-color: peachpuff;
+    text-align: center;
+    padding: 15px;
+    margin: 20px
+}
+
+.cars{
+    border: 2px solid #adf5ff;
+    color: crimson;
+    background-color: #5cffaa;
+    text-align: center;
+    padding: 20px;
+    margin: 15px;
+}
+
+body{
+    font-family: "DejaVu Sans";
+}
+.fruits img{
+    width: 240px;
+}
+
+.cars img{
+    width: 240px;
+}
